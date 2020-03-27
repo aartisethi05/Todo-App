@@ -1,0 +1,15 @@
+.todoBox{
+    width:50%;
+    margin:10px;
+
+}
+.background{
+    margin-top: 500px;
+    background-color: black;
+}
+.btn{
+    width: 150px;
+    background-color: blue;
+    border-radius: 2px;
+    color:white;
+}
